@@ -91,7 +91,7 @@ Tested Devices and Notes
 
     Wired Devices Tested With:
         Wired gaming headset
-		PS5 DualSense controller
+	PS5 DualSense controller
 		
     Recording Tested With:
         Skype web version
