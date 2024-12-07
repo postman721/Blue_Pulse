@@ -1,4 +1,5 @@
 ## Blue Pulse: A Volume Controller with Bluetooth Pairing Integration
+![bluepulse](https://github.com/user-attachments/assets/6dfe509b-21d7-43cc-bb5a-98f1d5803d51)
 
 A Python application that provides a graphical interface to control system volume, manage input/output audio devices, and pair/unpair Bluetooth devices on Linux systems. This application requires PipeWire.
 
