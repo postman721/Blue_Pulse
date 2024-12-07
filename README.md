@@ -90,8 +90,7 @@ Tested Devices and Notes
         JBL Bluetooth headset
 
     Wired Devices Tested With:
-        Wired gaming headset
-		PS5 DualSense controller
+        Wired gaming headset and PS5 DualSense controller
 		
     Recording Tested With:
         Skype web version
