@@ -1,5 +1,6 @@
-## Blue Pulse: A Volume Controller with Bluetooth Pairing Integration
-![bluepulse](https://github.com/user-attachments/assets/6dfe509b-21d7-43cc-bb5a-98f1d5803d51)
+## Blue Pulse: A Volume Controller with Bluetooth Pairing Integration PyQt5 or PyQT6
+
+<img width="989" height="612" alt="Image" src="https://github.com/user-attachments/assets/c2c0a3d0-b6a1-4d5d-8a1c-c66477638cfc" />
 
 A Python application that provides a graphical interface to control system volume, manage input/output audio devices, and pair/unpair Bluetooth devices on Linux systems. This application requires PipeWire.
 
@@ -11,9 +12,28 @@ Released under GPL v2. Use at your own responsibility.
 Author: JJ Posti <techtimejourney.net>, 2024
 
 
-### To install the required dependencies, run the following command:
+PYQt6: Install the required dependencies, run the following command:
 
-		sudo apt-get install python3-dbus python3-gi python3-pyqt5 libglib2.0-dev bluez libdbus-1-dev libdbus-glib-1-dev pulseaudio-utils
+		sudo apt-get update
+		sudo apt-get install -y \
+		python3-pyqt6 \
+		python3-dbus \
+		python3-gi gir1.2-glib-2.0 \
+		bluez \
+		pulseaudio-utils
+
+
+PYQt5: Install the required dependencies, run the following command:
+
+		sudo apt-get update
+		sudo apt-get install -y \
+		python3-pyqt5 \
+		python3-dbus \
+		python3-gi gir1.2-glib-2.0 \
+		bluez \
+		pulseaudio-utils
+
+
 
 ### Optional: Add User to Bluetooth Group
 
