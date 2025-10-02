@@ -142,7 +142,7 @@ Again: If you see “`No module named blue_pulse`”, ensure you’re running **
 
 
 ## Usage overview
-- **Main Window:** Sound controls, input and output selection, scan, pairing and unpairing functionalities.
+**Main Window:** Sound controls, input and output selection, scan, pairing and unpairing functionalities.
 
 **Profiles/power:**
 - **Default tab:** pick output/input, set defaults, mute/unmute.  
